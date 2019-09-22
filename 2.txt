@@ -1,0 +1,52 @@
+--------Avcý Bilgileri--------
+2
+Berke
+05067351367
+false
+Mersin
+--------Tüfek Bilgileri--------
+A
+2.0
+250
+5
+36.0
+650
+Tip1
+--------Tabanca Bilgileri--------
+A
+2.0
+50
+10
+9.0
+450
+Tip2
+--------Çadýr Bilgileri--------
+Decathlon
+2
+17.5
+18.6
+true
+7
+-25
+Kýþ
+--------Çanta Bilgileri--------
+Decathlon
+2
+14
+7
+true
+3.0
+--------Býçak Bilgileri--------
+AACF
+Avcý Býçaðý
+8.0
+--------Olta Bilgileri--------
+FFishR
+2
+7.0
+6
+Tip4
+--------Olta Yemi Bilgileri--------
+85
+Tip5
+true

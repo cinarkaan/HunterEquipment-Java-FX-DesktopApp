@@ -1,0 +1,14 @@
+.Hunt{
+	-fx-background-image: url("Hunt.jpg");
+	-fx-background-size: 1400.0px 800.0px ;
+}
+.LandHunter {
+	-fx-background-image: url("Hunter.jpg");
+}
+.WaterHunter{
+	-fx-background-image: url("WaterHunt.jpg");
+	
+}
+.Grey{
+	-fx-background-color: grey 
+}

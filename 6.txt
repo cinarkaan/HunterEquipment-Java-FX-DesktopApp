@@ -1,0 +1,52 @@
+--------Avcý Bilgileri--------
+6
+Rýza
+05067351367
+true
+Trabzon
+--------Tüfek Bilgileri--------
+G
+2.0
+250
+5
+36.0
+650
+Tip2
+--------Tabanca Bilgileri--------
+G
+2.0
+50
+10
+9.0
+450
+Tip2
+--------Çadýr Bilgileri--------
+Decathlon
+2
+17.5
+18.6
+true
+7
+-25
+Kýþ
+--------Çanta Bilgileri--------
+Decathlon
+2
+14
+7
+true
+3.0
+--------Býçak Bilgileri--------
+AACF
+Acvý Býçaðý
+8.0
+--------Olta Bilgileri--------
+FFishR
+2
+7.0
+7
+Tip4
+--------Olta Yemi Bilgileri--------
+75
+Tip2
+false

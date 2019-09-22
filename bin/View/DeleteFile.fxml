@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ButtonBar?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="203.0" prefWidth="365.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="View.DeleteHunter">
+   <children>
+      <Text layoutX="56.0" layoutY="57.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Silmek istediğiniz avcının ID'sini giriniz">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Text>
+      <TextField fx:id="ID" layoutX="108.0" layoutY="83.0" translateX="-5.0" />
+      <ButtonBar layoutX="71.0" layoutY="125.0" prefHeight="40.0" prefWidth="200.0" translateX="-15.0">
+        <buttons>
+          <Button mnemonicParsing="false" onAction="#okDelete" text="Sİl" />
+            <Button mnemonicParsing="false" onAction="#Cancel" text="İptal" />
+        </buttons>
+      </ButtonBar>
+   </children>
+</AnchorPane>

@@ -1,0 +1,52 @@
+--------Avcý Bilgileri--------
+5
+Mehmet
+05067351367
+true
+istanbul
+--------Tüfek Bilgileri--------
+D
+2.0
+250
+5
+36.0
+650
+Tip4
+--------Tabanca Bilgileri--------
+D
+2.2
+150
+10
+45.0
+500
+Tip3
+--------Çadýr Bilgileri--------
+Tip4
+2
+17.5
+18.6
+true
+7
+-25
+Kýþ
+--------Çanta Bilgileri--------
+Decathlon
+2
+14
+7
+true
+3.0
+--------Býçak Bilgileri--------
+AACF
+Acvý Býçaðý
+8.0
+--------Olta Bilgileri--------
+FFishR
+2
+5.5
+6
+Tip3
+--------Olta Yemi Bilgileri--------
+65
+Tip2
+false
